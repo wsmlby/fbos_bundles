@@ -1387,7 +1387,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
   _reactNative.AppRegistry.registerComponent(_app.name, function () {
     return _App.default;
   });
-},0,[1,2,414,417],"index.js");
+},0,[1,2,414,416],"index.js");
 __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, exports, _dependencyMap) {
   function _interopRequireDefault(obj) {
     return obj && obj.__esModule ? obj : {
@@ -6296,7 +6296,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _objectWithoutProperties = _$$_REQUIRE(_dependencyMap[2], "@babel/runtime/helpers/objectWithoutProperties");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/ActivityIndicator/ActivityIndicator.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/ActivityIndicator/ActivityIndicator.js";
 
   var Platform = _$$_REQUIRE(_dependencyMap[3], "Platform");
 
@@ -11244,7 +11244,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _extends = _$$_REQUIRE(_dependencyMap[0], "@babel/runtime/helpers/extends");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/View/View.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/View/View.js";
 
   var React = _$$_REQUIRE(_dependencyMap[1], "React");
 
@@ -44221,7 +44221,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/UnimplementedViews/UnimplementedView.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/UnimplementedViews/UnimplementedView.js";
 
   var React = _$$_REQUIRE(_dependencyMap[5], "React");
 
@@ -44279,7 +44279,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/ART/ReactNativeART.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/ART/ReactNativeART.js";
 
   var Color = _$$_REQUIRE(_dependencyMap[5], "art/core/color");
 
@@ -45866,7 +45866,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[5], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/Button.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/Button.js";
 
   var Platform = _$$_REQUIRE(_dependencyMap[6], "Platform");
 
@@ -46021,7 +46021,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _objectSpread = _$$_REQUIRE(_dependencyMap[7], "@babel/runtime/helpers/objectSpread");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Text/Text.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Text/Text.js";
 
   var DeprecatedTextPropTypes = _$$_REQUIRE(_dependencyMap[8], "DeprecatedTextPropTypes");
 
@@ -46447,7 +46447,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _objectSpread = _$$_REQUIRE(_dependencyMap[1], "@babel/runtime/helpers/objectSpread");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/Touchable/Touchable.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/Touchable/Touchable.js";
 
   var BoundingDimensions = _$$_REQUIRE(_dependencyMap[2], "BoundingDimensions");
 
@@ -47235,7 +47235,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/Touchable/TouchableNativeFeedback.ios.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/Touchable/TouchableNativeFeedback.ios.js";
 
   var React = _$$_REQUIRE(_dependencyMap[5], "React");
 
@@ -47315,7 +47315,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _objectSpread = _$$_REQUIRE(_dependencyMap[0], "@babel/runtime/helpers/objectSpread");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/Touchable/TouchableOpacity.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/Touchable/TouchableOpacity.js";
 
   var Animated = _$$_REQUIRE(_dependencyMap[1], "Animated");
 
@@ -51668,7 +51668,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[5], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Animated/src/createAnimatedComponent.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Animated/src/createAnimatedComponent.js";
 
   var _require = _$$_REQUIRE(_dependencyMap[6], "./AnimatedEvent"),
       AnimatedEvent = _require.AnimatedEvent;
@@ -51873,7 +51873,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _objectSpread = _$$_REQUIRE(_dependencyMap[6], "@babel/runtime/helpers/objectSpread");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Lists/FlatList.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Lists/FlatList.js";
 
   var Platform = _$$_REQUIRE(_dependencyMap[7], "Platform");
 
@@ -52187,7 +52187,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[8], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Lists/VirtualizedList.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Lists/VirtualizedList.js";
 
   var Batchinator = _$$_REQUIRE(_dependencyMap[9], "Batchinator");
 
@@ -54048,7 +54048,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[6], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/RefreshControl/RefreshControl.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/RefreshControl/RefreshControl.js";
 
   var Platform = _$$_REQUIRE(_dependencyMap[7], "Platform");
 
@@ -54211,7 +54211,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _objectSpread = _$$_REQUIRE(_dependencyMap[7], "@babel/runtime/helpers/objectSpread");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/ScrollView/ScrollView.js";
 
   var AnimatedImplementation = _$$_REQUIRE(_dependencyMap[8], "AnimatedImplementation");
 
@@ -55160,7 +55160,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/ScrollView/ScrollViewStickyHeader.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/ScrollView/ScrollViewStickyHeader.js";
 
   var AnimatedImplementation = _$$_REQUIRE(_dependencyMap[5], "AnimatedImplementation");
 
@@ -55777,7 +55777,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _regeneratorRuntime = _$$_REQUIRE(_dependencyMap[1], "@babel/runtime/regenerator");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Image/Image.ios.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Image/Image.ios.js";
 
   var DeprecatedImagePropType = _$$_REQUIRE(_dependencyMap[2], "DeprecatedImagePropType");
 
@@ -55984,7 +55984,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _objectSpread = _$$_REQUIRE(_dependencyMap[6], "@babel/runtime/helpers/objectSpread");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Lists/SectionList.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Lists/SectionList.js";
 
   var Platform = _$$_REQUIRE(_dependencyMap[7], "Platform");
 
@@ -56107,7 +56107,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[7], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Lists/VirtualizedSectionList.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Lists/VirtualizedSectionList.js";
 
   var Platform = _$$_REQUIRE(_dependencyMap[8], "Platform");
 
@@ -57278,7 +57278,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/DatePicker/DatePickerIOS.ios.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/DatePicker/DatePickerIOS.ios.js";
 
   var React = _$$_REQUIRE(_dependencyMap[5], "React");
 
@@ -57412,7 +57412,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[6], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Image/ImageBackground.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Image/ImageBackground.js";
 
   var Image = _$$_REQUIRE(_dependencyMap[7], "Image");
 
@@ -57610,7 +57610,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/TextInput/InputAccessoryView.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/TextInput/InputAccessoryView.js";
 
   var DeprecatedColorPropType = _$$_REQUIRE(_dependencyMap[5], "DeprecatedColorPropType");
 
@@ -57690,7 +57690,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[6], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/Keyboard/KeyboardAvoidingView.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/Keyboard/KeyboardAvoidingView.js";
 
   var Keyboard = _$$_REQUIRE(_dependencyMap[7], "Keyboard");
 
@@ -57897,7 +57897,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _extends = _$$_REQUIRE(_dependencyMap[1], "@babel/runtime/helpers/extends");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Lists/ListView/ListView.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Lists/ListView/ListView.js";
 
   var InternalListViewType = _$$_REQUIRE(_dependencyMap[2], "InternalListViewType");
 
@@ -58805,7 +58805,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[6], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/MaskedView/MaskedViewIOS.ios.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/MaskedView/MaskedViewIOS.ios.js";
 
   var React = _$$_REQUIRE(_dependencyMap[7], "React");
 
@@ -58899,7 +58899,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[5], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Modal/Modal.js",
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Modal/Modal.js",
       _container;
 
   var AppContainer = _$$_REQUIRE(_dependencyMap[6], "AppContainer");
@@ -59085,7 +59085,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/ReactNative/AppContainer.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/ReactNative/AppContainer.js";
 
   var EmitterSubscription = _$$_REQUIRE(_dependencyMap[5], "EmitterSubscription");
 
@@ -59262,7 +59262,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Inspector/Inspector.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Inspector/Inspector.js";
 
   var Dimensions = _$$_REQUIRE(_dependencyMap[5], "Dimensions");
 
@@ -59594,7 +59594,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Inspector/InspectorOverlay.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Inspector/InspectorOverlay.js";
 
   var Dimensions = _$$_REQUIRE(_dependencyMap[5], "Dimensions");
 
@@ -59706,7 +59706,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[5], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Inspector/ElementBox.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Inspector/ElementBox.js";
 
   var BorderBox = _$$_REQUIRE(_dependencyMap[6], "BorderBox");
 
@@ -59834,7 +59834,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Inspector/BorderBox.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Inspector/BorderBox.js";
 
   var React = _$$_REQUIRE(_dependencyMap[5], "React");
 
@@ -60001,7 +60001,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Inspector/InspectorPanel.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Inspector/InspectorPanel.js";
 
   var ElementProperties = _$$_REQUIRE(_dependencyMap[5], "ElementProperties");
 
@@ -60236,7 +60236,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Inspector/ElementProperties.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Inspector/ElementProperties.js";
 
   var BoxInspector = _$$_REQUIRE(_dependencyMap[5], "BoxInspector");
 
@@ -60442,7 +60442,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Inspector/BoxInspector.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Inspector/BoxInspector.js";
 
   var React = _$$_REQUIRE(_dependencyMap[5], "React");
 
@@ -60634,7 +60634,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Inspector/StyleInspector.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Inspector/StyleInspector.js";
 
   var React = _$$_REQUIRE(_dependencyMap[5], "React");
 
@@ -60736,7 +60736,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _objectSpread = _$$_REQUIRE(_dependencyMap[0], "@babel/runtime/helpers/objectSpread");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/Touchable/TouchableHighlight.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/Touchable/TouchableHighlight.js";
 
   var DeprecatedColorPropType = _$$_REQUIRE(_dependencyMap[1], "DeprecatedColorPropType");
 
@@ -61067,7 +61067,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Inspector/NetworkOverlay.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Inspector/NetworkOverlay.js";
 
   var FlatList = _$$_REQUIRE(_dependencyMap[5], "FlatList");
 
@@ -62010,7 +62010,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Inspector/PerformanceOverlay.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Inspector/PerformanceOverlay.js";
 
   var PerformanceLogger = _$$_REQUIRE(_dependencyMap[5], "PerformanceLogger");
 
@@ -62111,7 +62111,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/YellowBox/YellowBox.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/YellowBox/YellowBox.js";
 
   var React = _$$_REQUIRE(_dependencyMap[5], "React");
 
@@ -62315,7 +62315,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[6], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/YellowBox/UI/YellowBoxList.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/YellowBox/UI/YellowBoxList.js";
 
   var Dimensions = _$$_REQUIRE(_dependencyMap[7], "Dimensions");
 
@@ -62540,7 +62540,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[6], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/SafeAreaView/SafeAreaView.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/SafeAreaView/SafeAreaView.js";
 
   var Platform = _$$_REQUIRE(_dependencyMap[7], "Platform");
 
@@ -62622,7 +62622,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/YellowBox/UI/YellowBoxButton.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/YellowBox/UI/YellowBoxButton.js";
 
   var React = _$$_REQUIRE(_dependencyMap[0], "React");
 
@@ -62682,7 +62682,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/YellowBox/UI/YellowBoxPressable.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/YellowBox/UI/YellowBoxPressable.js";
 
   var React = _$$_REQUIRE(_dependencyMap[5], "React");
 
@@ -62796,7 +62796,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/YellowBox/UI/YellowBoxInspector.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/YellowBox/UI/YellowBoxInspector.js";
 
   var Platform = _$$_REQUIRE(_dependencyMap[5], "Platform");
 
@@ -63057,7 +63057,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _toConsumableArray = _$$_REQUIRE(_dependencyMap[0], "@babel/runtime/helpers/toConsumableArray");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/YellowBox/Data/YellowBoxCategory.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/YellowBox/Data/YellowBoxCategory.js";
 
   var React = _$$_REQUIRE(_dependencyMap[1], "React");
 
@@ -63210,7 +63210,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/YellowBox/UI/YellowBoxInspectorFooter.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/YellowBox/UI/YellowBoxInspectorFooter.js";
 
   var React = _$$_REQUIRE(_dependencyMap[0], "React");
 
@@ -63317,7 +63317,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/YellowBox/UI/YellowBoxInspectorHeader.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/YellowBox/UI/YellowBoxInspectorHeader.js";
 
   var Image = _$$_REQUIRE(_dependencyMap[0], "Image");
 
@@ -63493,7 +63493,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/YellowBox/UI/YellowBoxInspectorSourceMapStatus.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/YellowBox/UI/YellowBoxInspectorSourceMapStatus.js";
 
   var Animated = _$$_REQUIRE(_dependencyMap[5], "Animated");
 
@@ -63673,7 +63673,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/YellowBox/UI/YellowBoxInspectorStackFrame.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/YellowBox/UI/YellowBoxInspectorStackFrame.js";
 
   var React = _$$_REQUIRE(_dependencyMap[0], "React");
 
@@ -63758,7 +63758,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/YellowBox/UI/YellowBoxListRow.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/YellowBox/UI/YellowBoxListRow.js";
 
   var React = _$$_REQUIRE(_dependencyMap[5], "React");
 
@@ -64283,7 +64283,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[5], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/Picker/Picker.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/Picker/Picker.js";
 
   var PickerAndroid = _$$_REQUIRE(_dependencyMap[6], "PickerAndroid");
 
@@ -64383,7 +64383,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[4], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/Picker/PickerIOS.ios.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/Picker/PickerIOS.ios.js";
 
   var React = _$$_REQUIRE(_dependencyMap[5], "React");
 
@@ -64519,7 +64519,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _extends = _$$_REQUIRE(_dependencyMap[0], "@babel/runtime/helpers/extends");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/ProgressViewIOS/ProgressViewIOS.ios.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/ProgressViewIOS/ProgressViewIOS.ios.js";
 
   var React = _$$_REQUIRE(_dependencyMap[1], "React");
 
@@ -64570,7 +64570,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[6], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/SegmentedControlIOS/SegmentedControlIOS.ios.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/SegmentedControlIOS/SegmentedControlIOS.ios.js";
 
   var React = _$$_REQUIRE(_dependencyMap[7], "React");
 
@@ -64658,7 +64658,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _objectWithoutProperties = _$$_REQUIRE(_dependencyMap[1], "@babel/runtime/helpers/objectWithoutProperties");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/Slider/Slider.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/Slider/Slider.js";
 
   var Platform = _$$_REQUIRE(_dependencyMap[2], "Platform");
 
@@ -64756,7 +64756,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[5], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/RCTTest/SnapshotViewIOS.ios.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/RCTTest/SnapshotViewIOS.ios.js";
 
   var React = _$$_REQUIRE(_dependencyMap[6], "React");
 
@@ -64846,7 +64846,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[6], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/Switch/Switch.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/Switch/Switch.js";
 
   var SwitchNativeComponent = _$$_REQUIRE(_dependencyMap[7], "SwitchNativeComponent");
 
@@ -65293,7 +65293,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[6], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableFlatList.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableFlatList.js";
 
   var React = _$$_REQUIRE(_dependencyMap[7], "React");
 
@@ -65452,7 +65452,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[5], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableRow.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableRow.js";
 
   var Animated = _$$_REQUIRE(_dependencyMap[6], "Animated");
 
@@ -66009,7 +66009,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[5], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableListView.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Experimental/SwipeableRow/SwipeableListView.js";
 
   var ListView = _$$_REQUIRE(_dependencyMap[6], "ListView");
 
@@ -66284,7 +66284,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _objectSpread = _$$_REQUIRE(_dependencyMap[6], "@babel/runtime/helpers/objectSpread");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/TextInput/TextInput.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/TextInput/TextInput.js";
 
   var DeprecatedColorPropType = _$$_REQUIRE(_dependencyMap[7], "DeprecatedColorPropType");
 
@@ -67335,7 +67335,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _inherits = _$$_REQUIRE(_dependencyMap[7], "@babel/runtime/helpers/inherits");
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/Components/WebView/WebView.ios.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/Components/WebView/WebView.ios.js";
 
   var ActivityIndicator = _$$_REQUIRE(_dependencyMap[8], "ActivityIndicator");
 
@@ -68267,7 +68267,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _PerformanceLogger = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[2], "PerformanceLogger"));
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/ReactNative/renderApplication.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/ReactNative/renderApplication.js";
 
   var AppContainer = _$$_REQUIRE(_dependencyMap[3], "AppContainer");
 
@@ -68327,7 +68327,7 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, exports, _dependencyMap) {
   'use strict';
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/node_modules/react-native/Libraries/ReactNative/ReactFabricIndicator.js";
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/node_modules/react-native/Libraries/ReactNative/ReactFabricIndicator.js";
 
   var React = _$$_REQUIRE(_dependencyMap[0], "React");
 
@@ -87519,28 +87519,62 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   var _reactNative = _$$_REQUIRE(_dependencyMap[10], "react-native");
 
-  var _reactNativeGeolocationService = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[11], "react-native-geolocation-service"));
+  var _jsxFileName = "/Users/marcusg/Code/rn-rental-mock/App.js";
+  var FBOS = _reactNative.NativeModules.FBOS;
+  var rentalLocation = {
+    lat: 37.484223,
+    long: -122.147842
+  };
+  var hardcodedLocation = {
+    lat: 37.484319,
+    long: -122.147821
+  };
+  var hardcodedDestination = {
+    lat: 37.484222,
+    long: -122.147841
+  };
 
-  var _jsxFileName = "/Users/marcusg/Code/hangry/App.js";
+  var degreesToRadians = function degreesToRadians(deg) {
+    return deg * Math.PI / 180;
+  };
+
+  var linearDistanceFromSeaLevelSphericalCoords = function linearDistanceFromSeaLevelSphericalCoords(loc1, loc2) {
+    var altitude = 6371 * 1000;
+    var dLat = degreesToRadians(loc1.lat - loc2.lat);
+    var dLong = degreesToRadians(loc1.long - loc2.long);
+    var radLat1 = degreesToRadians(loc1.lat);
+    var radLat2 = degreesToRadians(loc2.lat);
+    var a = Math.sin(dLat / 2) * Math.sin(dLat / 2) + Math.sin(dLong / 2) * Math.sin(dLong / 2) * Math.cos(radLat1) * Math.cos(radLat2);
+    var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    return altitude * c;
+  };
+
+  var formatDistanceString = function formatDistanceString(x) {
+    return Number.parseFloat(x).toPrecision(3);
+  };
 
   var styles = _reactNative.StyleSheet.create({
     container: {
       flex: 1,
-      justifyContent: 'center',
+      justifyContent: 'space-around',
       alignItems: 'center',
       backgroundColor: '#F5FCFF'
     },
-    welcome: {
-      fontSize: 20,
+    distanceMarker: {
       textAlign: 'center',
-      margin: 10
+      color: '#2c2c2c'
     },
     instructions: {
       textAlign: 'center',
       color: '#333333',
-      marginBottom: 5
+      fontSize: 16,
+      marginBottom: 16,
+      marginTop: 16,
+      width: '60%'
     }
   });
+
+  var instructionString = 'Please walk within 3 meters of the rental location and tap the "Rent" button to finish the transaction';
 
   var App = function (_Component) {
     (0, _inherits2.default)(App, _Component);
@@ -87551,11 +87585,11 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
       (0, _classCallCheck2.default)(this, App);
       _this = (0, _possibleConstructorReturn2.default)(this, (0, _getPrototypeOf2.default)(App).call(this, props));
       _this.state = {
-        count: 0,
-        position: undefined
+        location: hardcodedLocation
       };
-      _this.handlePress = _this.handlePress.bind((0, _assertThisInitialized2.default)(_this));
-      _this.setPosition = _this.setPosition.bind((0, _assertThisInitialized2.default)(_this));
+      _this.handleRentalButtonTouch = _this.handleRentalButtonTouch.bind((0, _assertThisInitialized2.default)(_this));
+      _this.handleLocationUpdate = _this.handleLocationUpdate.bind((0, _assertThisInitialized2.default)(_this));
+      _this.checkLocation = _this.checkLocation.bind((0, _assertThisInitialized2.default)(_this));
       return _this;
     }
 
@@ -87564,75 +87598,104 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
       value: function componentDidMount() {
         var _this2 = this;
 
-        if (hasLocationPermission) {
-          _reactNativeGeolocationService.default.getCurrentPosition(function (position) {
-            _this2.setPosition(position);
-          }, function (error) {
-            alert("GEOLOCATION ERROR (" + error.code + "): " + error.message);
-          }, {
-            enableHighAccuracy: true,
-            timeout: 15000,
-            maximumAge: 10000
+        setInterval(function () {
+          _this2.checkLocation(_this2.handleLocationUpdate);
+        }, 2000);
+      }
+    }, {
+      key: "checkLocation",
+      value: function checkLocation(callbackFunc) {
+        FBOS.getLocation().then(callbackFunc);
+      }
+    }, {
+      key: "handleRentalButtonTouch",
+      value: function handleRentalButtonTouch() {
+        this.setState(function (s) {
+          return (0, _objectSpread2.default)({}, s, {
+            count: s.count + 1
           });
+        });
+      }
+    }, {
+      key: "handleLocationUpdate",
+      value: function handleLocationUpdate(location) {
+        this.setState(function (s) {
+          return (0, _objectSpread2.default)({}, s, {
+            location: {
+              lat: location.lat,
+              long: location.long
+            }
+          });
+        });
+      }
+    }, {
+      key: "waitToChangeHardcodedLocation",
+      value: function waitToChangeHardcodedLocation(secs) {
+        var _this3 = this;
+
+        var location = this.state.location;
+
+        if (location === hardcodedLocation) {
+          setTimeout(function () {
+            return _this3.handleLocationUpdate(hardcodedDestination);
+          }, secs * 1000);
         }
       }
     }, {
-      key: "setPosition",
-      value: function setPosition(position) {
-        this.setState(function (s) {
-          return (0, _objectSpread2.default)({}, s, {
-            position: position
-          });
-        });
-      }
-    }, {
-      key: "handlePress",
-      value: function handlePress() {
-        this.setState(function (prev) {
-          return {
-            count: prev.count + 1
-          };
-        });
+      key: "waitToResetLocation",
+      value: function waitToResetLocation(secs) {
+        var _this4 = this;
+
+        var location = this.state.location;
+
+        if (location === hardcodedDestination) {
+          setTimeout(function () {
+            _this4.handleLocationUpdate(hardcodedLocation);
+
+            _this4.waitToChangeHardcodedLocation(5);
+          }, secs * 1000);
+        }
       }
     }, {
       key: "render",
       value: function render() {
-        var _this$state = this.state,
-            count = _this$state.count,
-            position = _this$state.position;
+        var location = this.state.location;
+        var distanceFormula = linearDistanceFromSeaLevelSphericalCoords;
+        var distance = distanceFormula(location, rentalLocation);
+        var distanceString = formatDistanceString(distance);
         return _react.default.createElement(_reactNative.View, {
           style: styles.container,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 90
+            lineNumber: 141
           }
         }, _react.default.createElement(_reactNative.Text, {
           style: styles.instructions,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 91
+            lineNumber: 142
           }
-        }, "Counter: " + count), _react.default.createElement(_reactNative.Text, {
+        }, "distance: " + distanceString + "m"), distance < 2.1 && _react.default.createElement(_reactNative.Button, {
+          title: "Rent Bike!",
+          onPress: this.handleRentalButtonTouch,
+          __source: {
+            fileName: _jsxFileName,
+            lineNumber: 146
+          }
+        }), _react.default.createElement(_reactNative.Text, {
           style: styles.instructions,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 94
+            lineNumber: 151
           }
-        }, "Position: " + position), _react.default.createElement(_reactNative.Button, {
-          title: "Push Me!",
-          onPress: this.handlePress,
-          __source: {
-            fileName: _jsxFileName,
-            lineNumber: 97
-          }
-        }));
+        }, instructionString));
       }
     }]);
     return App;
   }(_react.Component);
 
   exports.default = App;
-},414,[1,415,49,22,23,36,39,38,42,53,2,416],"App.js");
+},414,[1,415,49,22,23,36,39,38,42,53,2],"App.js");
 __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, exports, _dependencyMap) {
   function _interopRequireWildcard(obj) {
     if (obj && obj.__esModule) {
@@ -87661,132 +87724,11 @@ __d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, e
 
   module.exports = _interopRequireWildcard;
 },415,[],"node_modules/@babel/runtime/helpers/interopRequireWildcard.js");
-__d(function (global, _$$_REQUIRE, _$$_IMPORT_DEFAULT, _$$_IMPORT_ALL, module, exports, _dependencyMap) {
-  var _interopRequireDefault = _$$_REQUIRE(_dependencyMap[0], "@babel/runtime/helpers/interopRequireDefault");
-
-  Object.defineProperty(exports, "__esModule", {
-    value: true
-  });
-  exports.default = void 0;
-
-  var _regenerator = _interopRequireDefault(_$$_REQUIRE(_dependencyMap[1], "@babel/runtime/regenerator"));
-
-  var _reactNative = _$$_REQUIRE(_dependencyMap[2], "react-native");
-
-  var Geolocation = global.navigator.geolocation;
-
-  var noop = function noop() {};
-
-  var subscriptions = [];
-  var updatesEnabled = false;
-
-  if (_reactNative.Platform.OS === 'android') {
-    var RNFusedLocation = _reactNative.NativeModules.RNFusedLocation;
-    var LocationEventEmitter = new _reactNative.NativeEventEmitter(RNFusedLocation);
-    Geolocation = {
-      setRNConfiguration: function setRNConfiguration(config) {},
-      requestAuthorization: function requestAuthorization() {},
-      getCurrentPosition: function getCurrentPosition(success) {
-        var error,
-            options,
-            _args = arguments;
-        return _regenerator.default.async(function getCurrentPosition$(_context) {
-          while (1) {
-            switch (_context.prev = _context.next) {
-              case 0:
-                error = _args.length > 1 && _args[1] !== undefined ? _args[1] : noop;
-                options = _args.length > 2 && _args[2] !== undefined ? _args[2] : {};
-
-                if (!success) {
-                  console.error('Must provide a success callback');
-                }
-
-                RNFusedLocation.getCurrentPosition(options, success, error);
-
-              case 4:
-              case "end":
-                return _context.stop();
-            }
-          }
-        });
-      },
-      watchPosition: function watchPosition(success) {
-        var error = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : null;
-        var options = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : {};
-
-        if (!success) {
-          console.error('Must provide a success callback');
-        }
-
-        if (!updatesEnabled) {
-          RNFusedLocation.startObserving(options);
-          updatesEnabled = true;
-        }
-
-        var watchID = subscriptions.length;
-        subscriptions.push([LocationEventEmitter.addListener('geolocationDidChange', success), error ? LocationEventEmitter.addListener('geolocationError', error) : null]);
-        return watchID;
-      },
-      clearWatch: function clearWatch(watchID) {
-        var sub = subscriptions[watchID];
-
-        if (!sub) {
-          return;
-        }
-
-        sub[0].remove();
-        var sub1 = sub[1];
-
-        if (sub1) {
-          sub1.remove();
-        }
-
-        subscriptions[watchID] = undefined;
-        var noWatchers = true;
-
-        for (var ii = 0; ii < subscriptions.length; ii += 1) {
-          if (subscriptions[ii]) {
-            noWatchers = false;
-          }
-        }
-
-        if (noWatchers) {
-          Geolocation.stopObserving();
-        }
-      },
-      stopObserving: function stopObserving() {
-        if (updatesEnabled) {
-          RNFusedLocation.stopObserving();
-          updatesEnabled = false;
-
-          for (var ii = 0; ii < subscriptions.length; ii += 1) {
-            var sub = subscriptions[ii];
-
-            if (sub) {
-              console.warn('Called stopObserving with existing subscriptions.');
-              sub[0].remove();
-              var sub1 = sub[1];
-
-              if (sub1) {
-                sub1.remove();
-              }
-            }
-          }
-
-          subscriptions = [];
-        }
-      }
-    };
-  }
-
-  var _default = Geolocation;
-  exports.default = _default;
-},416,[1,108,2],"node_modules/react-native-geolocation-service/js/index.js");
 __d(function(global, require, _aUnused, _bUnused, module, exports, _cUnused) {
   module.exports = {
   "name": "RNRental",
   "displayName": "RNRental"
 };
-},417,[],"app.json");
+},416,[],"app.json");
 __r(92);
 __r(0);
